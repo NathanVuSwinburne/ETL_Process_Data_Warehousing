@@ -4,8 +4,8 @@
 This research project provides an in-depth analysis of the Extract, Transform, Load (ETL) process in data warehousing and analytics, focusing on the challenges and solutions associated with traditional and modern ETL methodologies. The study includes a case example using Talend Open Studio, highlighting improvements in data quality, scalability, and operational efficiency in data warehousing.
 
 ### Research Contributors
-- **Thanh Nam Vu**
-- **Han Nguyen**
+- **Thanh Nam Vu** - Student ID: 104991276
+- **Han Nguyen** - Student ID: 104101431
 
 ### Course Information
 - **Course**: Cloud Computing Architecture, Semester 2, 2024
