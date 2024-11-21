@@ -8,7 +8,7 @@ This research project provides an in-depth analysis of the Extract, Transform, L
 - **Han Nguyen** - Student ID: 104101431
 
 ### Course Information
-- **Course**: Cloud Computing Architecture, Semester 2, 2024
+- **Course**: Fundamental of Data Management, Semester 2, 2024
 - **Tutorial Session**: Thursday, 2:30 PM
 - **University**: Swinburne University of Technology
 
